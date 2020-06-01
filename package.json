@@ -1,0 +1,16 @@
+{
+  "name": "unifiedjs.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \".\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh:unifiedjs/unifiedjs.github.io"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
